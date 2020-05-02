@@ -1,7 +1,7 @@
 var friends = [ 
         {
             "name": " Chandler Bing ",
-            "photo": " https://images.app.goo.gl/fdWyttZpyK1Xki1F8 ",
+            "photo": " https://images.app.goo.gl/U7Qhj1xSAmdWPAaD8",
             "scores": [
                 5,
                 4,
