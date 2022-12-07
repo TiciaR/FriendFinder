@@ -20,7 +20,7 @@
   "homepage": "https://github.com/TiciaR/FriendFinder#readme",
   "dependencies": {
     "app": "^0.1.0",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "path": "^0.12.7",
     "require": "^2.4.20",
     "uglify-js": "^3.9.1"
